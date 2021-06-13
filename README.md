@@ -1,4 +1,4 @@
-# Repo to store Linux/bash scripting examples
+# Linux/bash scripting examples repo
 
 ```
 ├── README.md
